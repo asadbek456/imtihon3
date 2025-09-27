@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    font-family: "Quantico", sans-serif;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.header-wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+
+}
+
+.a {
+    color: orangered;
+}
+
+a {
+    color: white;
+
+
+
+}
+
+select {
+    width: 165px;
+    height: 30px;
+    background-color: black;
+    border-radius: 5px;
+    color: white;
+}
+
+input {
+    width: 241px;
+    height: 30px;
+    background-color: rgb(77, 77, 77);
+}
+
+.as {
+    display: flex;
+    gap: 30px;
+}
+
+.sd {
+    display: flex;
+    gap: 25px;
+}
+
+.q {
+    background-image: url("https://media.steampowered.com/apps/csgo/blog/images/fb_image.png?v=6");
+    width: 1200px;
+    height: 553px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+.w {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.x {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    width: 44px;
+    height: 47px;
+    background-color: black;
+}
+
+.b {
+    display: flex;
+    margin: 0 auto;
+    background-color: grey;
+    width: 1200px;
+    height: 600px;
+    
+}
+
+.n {
+    display: flex;
+    margin: 100px;
+    box-sizing: border-box;
+}
+
+p {
+    color: white;
+}
